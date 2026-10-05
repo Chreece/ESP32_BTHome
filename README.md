@@ -1,3 +1,10 @@
+<!-- ko-fi-support -->
+<p align="center">
+  <a href="https://ko-fi.com/chreece">
+    <img src=".github/ko-fi-banner.svg" alt="Support Chreece on Ko-fi" width="600">
+  </a>
+</p>
+
 # ESP32_BTHome
 This project aims to show how you can use a ESP32 and Arduino libraries to send BLE advertisement packets in the BTHome format.
 This code should run on any ESP32. I have tested on ESP32-Wroom, and ESP32-C3
